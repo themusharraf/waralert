@@ -10,7 +10,7 @@ The MIT License is a permissive free software license originating from the Massa
 
 You are free to:
 
-- Use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+- Use, merge, publish, distribute, sublicense, and copies of the Software.
 
 ### Conditions
 
