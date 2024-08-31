@@ -26,7 +26,6 @@ Please ensure that this `LICENSE.md` file is included in the root directory of t
 
 ## Contact
 
-For any questions or clarifications regarding this license, please contact [Musharraf](Musharraf:meibrohimov@gmail.com)
-).
+For any questions or clarifications regarding this license, please contact [Musharraf](Musharraf:meibrohimov@gmail.com).
 
 
