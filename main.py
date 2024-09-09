@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from utils.send_email import EmailSender
-from dotenv import load_dotenv
 from models import ErrorReport
+from dotenv import load_dotenv
 from collections import deque
 from html import escape
 import uvicorn
