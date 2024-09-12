@@ -14,7 +14,7 @@ def send_exception(func):
             # Elektron pochta jo'natish # noqa
             email.send_email(
                 subject="Xato sodir bo'ldi",  # noqa
-                body=f"Xato xabari: {error_message}\n\nIzoh:\n{context}",  # noqa
+                body=f"Xato xabari: {error_message}\n\nIzoh:\n{context[1:]}",  # noqa
             )
 
     return wrapper
@@ -22,7 +22,8 @@ def send_exception(func):
 
 @send_exception
 def capture_exception():
-    print(1 / 0)
+    s = 2 / 0
+    print(s)
 
 
 capture_exception()
