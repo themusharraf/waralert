@@ -1,6 +1,5 @@
 import os
 import traceback
-from trackers import ErrorTracker
 from utils.send_email import EmailSender
 from dotenv import load_dotenv
 
