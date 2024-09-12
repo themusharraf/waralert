@@ -3,7 +3,9 @@ from main import send_exception
 
 @send_exception
 def capture_exception():
-    print(1 / 0)
+    s = "1d"
+    print(int(s))
 
 
 capture_exception()
+
