@@ -22,8 +22,8 @@ def send_exception(func):
 
 @send_exception
 def capture_exception():
-    s = 2 / 0
-    print(s)
+    s = "1d"
+    print(int(s))
 
 
 capture_exception()
