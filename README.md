@@ -6,4 +6,10 @@ Agar bu misolni yanada rivojlantirmoqchi bo'lsangiz `pull requests `qiling yoki 
 ## Email alert
 ![image](https://github.com/user-attachments/assets/6c6fa290-1bbb-40c4-a59e-ee80cbeca110)
 
-## Telegram in progress
+## Uni qanday ishlatish kerak 
+- create `.env` file
+```commandline
+EMAIL=
+PASSWORD=
+TO=
+```

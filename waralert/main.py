@@ -1,5 +1,5 @@
 import traceback
-from utils.send_email import EmailSender
+from send_email import EmailSender
 
 email = EmailSender()
 
