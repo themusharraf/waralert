@@ -22,4 +22,5 @@ from waralert.alert import send_exception
 def div():
     a = 3 // 0
     print(a)
-div()```
+div()
+```
