@@ -14,7 +14,7 @@ PASSWORD=
 TO=
 ```
 ## example 
-```
+```python
 from waralert.alert import send_exception
 
 
