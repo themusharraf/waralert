@@ -9,7 +9,7 @@ Agar bu misolni yanada rivojlantirmoqchi bo'lsangiz `pull requests `qiling yoki 
 ## Uni qanday ishlatish kerak 
 - create `.env` file
 ```commandline
-EMAIL=
+EMAIL= 
 PASSWORD=
 TO=
 ```
