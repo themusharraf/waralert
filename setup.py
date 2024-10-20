@@ -18,7 +18,7 @@ URL = 'https://github.com/themusharraf/waralert'
 EMAIL = 'meibrohimov@gmail.com'
 AUTHOR = 'Musharraf Ibragimov'
 REQUIRES_PYTHON = '>=3.8.0'
-VERSION = '0.0.3'
+VERSION = '0.0.4'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
